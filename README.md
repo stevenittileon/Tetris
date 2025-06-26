@@ -53,7 +53,7 @@ To deploy this project to GitHub Pages:
 
 1. Make sure the `homepage` field in `package.json` is set to your repository URL, e.g.:
    ```json
-   "homepage": "https://yourusername.github.io/tetris-react"
+   "homepage": "https://stevenittileon.github.io/tetris-react"
    ```
 2. Ensure the `base` option in `vite.config.ts` matches your repo name, e.g.:
    ```ts
@@ -65,7 +65,7 @@ To deploy this project to GitHub Pages:
    npm run deploy
    ```
    This will build the project and publish the `dist` folder to the `gh-pages` branch.
-5. Visit `https://yourusername.github.io/tetris-react` to see your deployed app.
+5. Visit `https://stevenittileon.github.io/tetris-react` to see your deployed app.
 
 ## 🎯 Project Structure
 
